@@ -1,3 +1,15 @@
+# Heads up!
+
+This is totally fresh CRA5 project, except .env added in the project root and src/App.tsx is modified with attempt to access `process.env` variables.
+
+Expected: everything works fine just like it's said in CRA docs:
+![image](https://user-images.githubusercontent.com/3310192/149833494-15a7fcc8-8206-44c3-ac78-dae493618095.png)
+
+In fact: unhandled exception:
+![image](https://user-images.githubusercontent.com/3310192/149833636-3b650b8c-e6be-403c-bef6-23792b03e575.png)
+
+Run with `npm start` and see the result.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
