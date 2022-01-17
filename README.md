@@ -2,7 +2,7 @@
 
 This is totally fresh CRA5 project, except .env added in the project root and src/App.tsx is modified with attempt to access `process.env` variables.
 
-Expected: everything works fine just like it's said in CRA docs:
+Expected: everything works fine just like it's said in [CRA docs](https://create-react-app.dev/docs/adding-custom-environment-variables/#adding-development-environment-variables-in-env):
 ![image](https://user-images.githubusercontent.com/3310192/149833494-15a7fcc8-8206-44c3-ac78-dae493618095.png)
 
 In fact: unhandled exception:
