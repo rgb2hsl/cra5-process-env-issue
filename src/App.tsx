@@ -10,7 +10,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Tried to read process.env.REACT_APP_NOT_SECRET_CODE and it's {process.env.REACT_APP_NOT_SECRET_CODE}
+          Tried to read process.env.REACT_APP_FOO and it's {process.env.REACT_APP_FOO}
         </p>
         <a
           className="App-link"
