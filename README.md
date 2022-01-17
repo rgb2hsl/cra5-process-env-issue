@@ -10,6 +10,8 @@ In fact: unhandled exception:
 
 Run with `npm start` and see the result.
 
+[Related issue](https://github.com/facebook/create-react-app/issues/11951)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
